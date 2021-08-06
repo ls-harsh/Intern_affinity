@@ -11,3 +11,6 @@ Solution :- Run all cells in the jupyter notebook to see results.
 
 Solution :- The recent data set that I found interesting was provided to me as an assignment, and it was raw data to train time-series forecasting. At first, I found it tough to grasp, but after I completed the entire task, I found it understandable.
 It's not my favorite,but my favorite comes from a project in which I created a rover to profile roads and visualize them. 
+
+# Important 
+Look through the dependencies[version].txt before running the program 
