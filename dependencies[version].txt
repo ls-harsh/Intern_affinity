@@ -1,0 +1,13 @@
+Dependies for running the program
+1.Python3[v3.9]
+2.pip3[v20.3.4]
+3.numpy[v1.19.5]
+4.pandas[v1.3.1]
+5.matplotlib[v3.3.4]
+6.seaborn[v0.11.1]
+7.nltk[v3.6.2]
+8.gensim[4.0.1]
+9.scikit-learn[v0.24.2]
+10.wordcloud[v1.8.1]
+11.tqdm[v4.57.0]
+12.xgboost[v1.4.2]
